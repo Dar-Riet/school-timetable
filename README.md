@@ -27,7 +27,6 @@
       </tr>
     </thead>
     <tbody>
-      <!-- Repeat for Tuesday-Firday -->
       <tr>
         <td>Monday</td>
         <td>Form Time (Yr 7–11)</td>
@@ -43,8 +42,14 @@
         <td>MUSIC 8 / MATH 4 ...</td>
         <td>FORM TUTOR’S TIME</td>
       </tr>
-      <!-- Repeat for Tuesday–Friday -->
     </tbody>
+  </thead>
+  </tbody>
+    <tr>
+      <td>Tuesday</td>
+      <td>Form Time (Yr 7-10)</td>
+      <td>Science 9 / Math 11 / ENG 17 / </td>
+    </tr>
   </table>
 </body>
 </html>
