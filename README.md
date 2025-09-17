@@ -56,8 +56,94 @@
                 <td>PE 13</td>
                 <td>ENG 7</td>
             </tr>
-            <!-- Repeat rows for other days (Wed, Thurs, Fri) -->
+            <tr>
+                <th>WED</th>
+                <td>ICT 2/SWA 13</td>
+                <td>BUS 4</td>
+                <td>ENG 17</td>
+                <td>BREAK</td>
+                <td>SCIENCE 9</td>
+                <td>MATH 11</td>
+                <td>PE 13</td>
+                <td>HIST 1</td>
+                <td>SCIENCE 9</td>
+                <td>MUSIC 9</td>
+                <td>PE 13</td>
+            </tr>
+            <tr>
+                <th></th>
+                <td>GEO 15</td>
+                <td>ART 18</td>
+                <td>HIST 10</td>
+                <td>BREAK</td>
+                <td>PE 13</td>
+                <td>PE 13</td>
+                <td>PE 13</td>
+                <td>SCIENCE 9</td>
+                <td>BUS 11</td>
+                <td>LS 14</td>
+                <td>PE 13</td>
+            </tr>
+            <tr>
+                <th>THU</th>
+                <td>ENG 7</td>
+                <td>ICT 2</td>
+                <td>PE 13</td>
+                <td>BREAK</td>
+                <td>HIST 10</td>
+                <td>GEO 15</td>
+                <td>PE 13</td>
+                <td>ENG 7</td>
+                <td>PE 13</td>
+                <td>MATH 4</td>
+                <td>SCIENCE 9</td>
+            </tr>
+            <tr>
+                <th></th>
+                <td>ENG 17</td>
+                <td>BUS 4</td>
+                <td>PE 13</td>
+                <td>BREAK</td>
+                <td>BUS 4</td>
+                <td>ENG 7</td>
+                <td>ICT 2</td>
+                <td>BUS 11</td>
+                <td>PE 13</td>
+                <td>MATH 4</td>
+                <td>CHEM 19</td>
+            </tr>
+            <tr>
+                <th>FRI</th>
+                <td>ICT 2/SWA 13</td>
+                <td>GEO 15</td>
+                <td>BUS 5</td>
+                <td>BREAK</td>
+                <td>SCIENCE 9</td>
+                <td>PE 13</td>
+                <td>PE 13</td>
+                <td>ICT 2</td>
+                <td>MATH 11</td>
+                <td>BUS 11</td>
+                <td>ENG 7</td>
+            </tr>
+            <tr>
+                <th></th>
+                <td>GEO 15</td>
+                <td>MATH 11</td>
+                <td>PE 13</td>
+                <td>BREAK</td>
+                <td>ICT 2</td>
+                <td>PE 13</td>
+                <td>PE 13</td>
+                <td>ENG 17</td>
+                <td>SCIENCE 9</td>
+                <td>MATH 4</td>
+                <td>PE 13</td>
+            </tr>
         </tbody>
+    </table>
+</body>
+</html>        </tbody>
     </table>
 </body>
 </html>
