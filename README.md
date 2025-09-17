@@ -27,6 +27,7 @@
       </tr>
     </thead>
     <tbody>
+      <!-- Repeat for Tuesday-Firday -->
       <tr>
         <td>Monday</td>
         <td>Form Time (Yr 7–11)</td>
